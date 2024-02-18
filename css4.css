@@ -362,8 +362,8 @@ body{
        width: 375px;
     }
     .video {
-        top: 580px;
-        width: 100%; 
+        top: 600px;
+        width:325px; 
         left: 0;
         position: relative;
     }

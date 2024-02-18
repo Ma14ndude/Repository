@@ -86,12 +86,7 @@ body{
 .background{
     height: 800px;
 }
-.video{
-    position: relative;
-    left:20px;
-    top:420px;
-    width: 500px;
-    height: 280px;
+
 }
 .border{
     position: relative;
@@ -252,11 +247,7 @@ body{
         width:500px;
         height:500px;
     }
-    .video{
-        position: relative;
-        left:20px;
-        top:70px;
-}
+
 
 }
 @media screen and (max-width: 998px){
@@ -301,11 +292,7 @@ body{
     .border{
         width: 1220px;
     }
-    .video{
-        top:200px;
-        width: 320px;
-        left: 5px;
-    }
+   
    
 }
 @media screen and (max-width: 576px){
@@ -361,10 +348,5 @@ body{
        top:20px;
        width: 375px;
     }
-    .video {
-        top: 600px;
-        width:325px; 
-        left: 0;
-        position: relative;
-    }
+    
 }

@@ -87,7 +87,7 @@ body{
     height: 800px;
 }
 
-}
+
 .border{
     position: relative;
     border: none;
@@ -216,9 +216,6 @@ body{
  
     .vnali{
         font-size:18px;
-    }
-    .pOpisanie{
-       
     }
     .Opi{
        top:120px;
